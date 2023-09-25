@@ -1,0 +1,15 @@
+body {
+  background-color: skyblue;
+}
+.sd {
+  background-color: white;
+}
+
+.btn {
+  background-color: rgb(53, 162, 205);
+}
+
+.d {
+  border: solid #1e3673;
+  color: rgb(53,  162,  205);
+}
